@@ -1,2 +1,2 @@
 # timer-time
-# project Will be push ASAP, there was a little trouble 😅😁.
+# project Will be push ASAP, there has been a local trouble 😅😁. Stay tuned
