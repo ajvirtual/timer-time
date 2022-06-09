@@ -1,0 +1,27 @@
+:root {
+  /* COLOR */
+  --black-background: #000;
+  --main-background: #18191a;
+  --second-background: #242526;
+  --third-background: #3a3b3c;
+  --fourth-background: #4e4e4e;
+  --fifth-background: #6f6d6d;
+  --white-font: #fff;
+  --second-font: #d8cece;
+  --black-font: #000;
+  --blue-button: #2d88ff;
+  /* --fb-blue: #2d88ff; */
+  --blue: rgb(32, 120, 244);
+  /* COLOR */
+  /* SIZE */
+  --active-lg-bord-bottom: 3px;
+  --custom-scrollbar-width: .7em;
+  --custom-scrollbar-track-hover: rgb(28, 30, 33);
+  --custom-scrollbar-thumb-back: rgb(62, 64, 66);
+  --custom-scrollbar-thumb-back-hover: rgb(75, 77, 80);
+  /* SIZE */
+  /*  OTHERS */
+  --font-family: sans-serif;
+  /*  OTHERS */
+}
+/*# sourceMappingURL=rootStyles.css.map */

@@ -1,0 +1,42 @@
+* {
+    font-family: var(--fb-font-family);
+}
+
+div.extra-page-container main{
+    background-color: var(--fb-main-background) !important;
+    color: #fff;
+}
+
+main {
+    position: relative;
+    top: 3.7em;
+    background-color: var(--fb-main-background);
+}
+
+a {
+    text-decoration: none !important;
+    color: inherit !important;
+}
+
+.fb-little-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 2em;
+    height: 2em;
+    border-radius: 50%;  
+    background: var(--fb-third-background); 
+}
+
+.little-icon-hoverable {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 2em;
+    height: 2em;
+    border-radius: 50%;
+}
+.little-icon-hoverable:hover {
+    background: var(--fb-third-background); 
+    transition: all linear .2s;   
+}

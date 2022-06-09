@@ -1,0 +1,9 @@
+body {
+  color: white;
+}
+
+body .extra-main-container {
+  display: flex;
+  height: 100vh;
+}
+/*# sourceMappingURL=main.css.map */

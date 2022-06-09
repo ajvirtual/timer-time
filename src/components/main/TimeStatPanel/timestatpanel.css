@@ -1,0 +1,43 @@
+.time-stat-container {
+  background-color: var(--second-background);
+  height: 30vh;
+  display: flex;
+}
+
+.time-stat-container .column1, .time-stat-container .column3 {
+  flex: .3;
+  padding: 1em;
+}
+
+.time-stat-container .column1 span.right-stat-label {
+  color: #79ffff;
+}
+
+.time-stat-container .column2 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 1.5em;
+  flex: .4;
+}
+
+.time-stat-container .column2 div .ao-label {
+  font-size: 2em;
+  color: #de950f;
+  font-family: system-ui;
+}
+
+.time-stat-container .column2 div .ao-time {
+  font-size: 2em;
+  font-family: revert;
+}
+
+.time-stat-container .column3 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.time-stat-container .column3 span.bigao-label {
+  color: #2d88ff;
+}
+/*# sourceMappingURL=timestatpanel.css.map */

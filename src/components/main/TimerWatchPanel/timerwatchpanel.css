@@ -1,0 +1,77 @@
+.timer-watch-panel-container {
+  position: relative;
+  height: 70vh;
+  background-color: var(--black-background);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.timer-watch-panel-container .timer-options {
+  display: flex;
+  column-gap: 0.3em;
+  position: absolute;
+  bottom: 1em;
+}
+
+.timer-watch-panel-container .scramble-line {
+  position: absolute;
+  top: 1em;
+  left: 1.5em;
+  font-size: 1.2em;
+  font-family: system-ui;
+}
+
+.timer-watch-panel-container .scramble-line span {
+  margin-right: 3em;
+}
+
+.timer-watch-panel-container #timer-flow {
+  font-size: 13vmin;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.timer-watch-panel-container .btn-current-time-option {
+  padding: 0.4em 1em;
+  background-color: var(--third-background);
+  color: white;
+  outline: none;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.timer-watch-panel-container .btn-current-time-option:hover {
+  background-color: var(--second-background);
+}
+
+.timer-watch-panel-container .clickable-frame-timer {
+  position: absolute;
+  top: 0.6em;
+  right: 1em;
+  color: #30ef30;
+}
+
+.full-screen {
+  width: 100vw;
+  height: 100vh;
+  display: none;
+  background: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  font-size: 1.5em;
+  font-family: sans-serif;
+}
+
+.timeout-inspection {
+  font-size: 7em;
+}
+/*# sourceMappingURL=timerwatchpanel.css.map */

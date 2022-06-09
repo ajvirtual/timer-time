@@ -1,0 +1,37 @@
+.time-stat-container {
+    background-color: var(--second-background);
+    height: 30vh;  
+    display: flex;
+    .column1, .column3 {
+        flex: .3;
+        padding: 1em
+    }
+    .column1 {
+        span.right-stat-label {
+            color: #79ffff;
+        }
+    }
+    .column2 {
+        display: flex;
+        align-items: center;
+        flex-direction: column  ;
+        padding-top: 1.5em;
+        flex: .4;
+        div .ao-label {
+            font-size: 2em;
+            color: #de950f;
+            font-family: system-ui;
+        }
+        div .ao-time {
+            font-size: 2em;
+            font-family: revert;
+        }
+    }
+    .column3 {
+        display: flex;      
+        justify-content: flex-end;
+        span.bigao-label {
+            color: #2d88ff;
+        }
+    }
+}       
