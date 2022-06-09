@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # timer-time
 ---
 
@@ -5,3 +6,7 @@
 
 ---
 # project Will be push ASAP, there has been a local trouble 😅😁. Stay tuned
+=======
+# facebook-clone
+this is a facebook clone which contains some of real the facebook site functionnality
+>>>>>>> initial commit
