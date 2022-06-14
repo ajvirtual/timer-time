@@ -8,7 +8,10 @@ have fun ;)
 ---
 
 # Stack : ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
+# screenshot : 
+ ![](./public/CT-screen-shoot.jpg)
+ ![](./public/CT-setting-pan.jpg)
+ ![](./public/cube-timer-scrn.jpg)
 ---
 =======
 # FEATURES : 
